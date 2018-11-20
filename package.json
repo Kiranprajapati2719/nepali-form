@@ -1,0 +1,17 @@
+{
+  "name": "nepali-form",
+  "version": "1.0.0",
+  "description": "A nepali form API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Prajapati",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "nepali",
+    "form"
+  ]
+}
